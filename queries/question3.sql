@@ -1,0 +1,3 @@
+SELECT * FROM india
+ORDER BY price DESC
+LIMIT 5;
